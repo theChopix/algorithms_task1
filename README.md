@@ -13,9 +13,9 @@
  The building committee is looking for building area of maximum size while maintaining the conditions stated above. The size of the building is equal to the number of all squares that the building area contains.
 
 <p align="center">
-  <img src="field.png" width="300" title="field">
-  <img src="field_filled1.png" width="300" alt="field_filled1">
-  <img src="field_filled2.png" width="300" alt="field_filled2">
+  <img src="pictures/field.png" width="300" title="field">
+  <img src="pictures/field_filled1.png" width="300" alt="field_filled1">
+  <img src="pictures/field_filled2.png" width="300" alt="field_filled2">
 </p>
 
 #### Input (example)
