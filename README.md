@@ -14,6 +14,10 @@
 
 ![Screenshot](field.png)
 
+![Screenshot](field_filled1.png)
+
+![Screenshot](field_filled2.png)
+
 #### Input (example)
 
 `6 9`  <sub> number of rows & number of cols </sub>  
