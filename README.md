@@ -14,8 +14,8 @@
 
 <p align="center">
   <img src="pictures/field.png" width="300" title="field">
-  <img src="pictures/field_filled1.png" width="300" alt="field_filled1">
-  <img src="pictures/field_filled2.png" width="300" alt="field_filled2">
+  <img src="pictures/field_filled1.png" width="300" title="field_filled1">
+  <img src="pictures/field_filled2.png" width="300" title="field_filled2">
 </p>
 
 #### Input (example)
@@ -34,7 +34,28 @@
 
 ## Solution
 
+<p align="center">
+  <img src="pictures/given_matrix.png" width="300" title="given_matrix">
+</p>
 
+<p align="center">
+  <img src="pictures/clean_up.png" width="300" title="clean_up">
+  <img src="pictures/dirty_up.png" width="300" title="dirty_up">
+</p>
+
+<p align="center">
+  <img src="pictures/clean_down.png" width="300" title="clean_down">
+  <img src="pictures/dirty_down.png" width="300" title="dirty_down">
+</p>
+
+<p align="center">
+  <img src="pictures/clean_right.png" width="300" title="clean_right">
+  <img src="pictures/dirty_right.png" width="300" title="dirty_right">
+</p>
+
+<p align="center">
+  <img src="pictures/given_matrix.png" width="300" title="given_matrix">
+</p>
 
 
 
