@@ -12,6 +12,8 @@
 
  The building committee is looking for building area of maximum size while maintaining the conditions stated above. The size of the building is equal to the number of all squares that the building area contains.
 
+![Screenshot](field.png)
+
 #### Input (example)
 
 `6 9`  <sub> number of rows & number of cols </sub>  
