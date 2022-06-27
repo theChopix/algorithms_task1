@@ -34,28 +34,43 @@
 
 ## Solution
 
+ In order to obtain time complexity of the programme as small as possible (which was the main goal of these tasks) it is needed to do some pre-processing calculation over the input data. Matrices describing how many clean or dirty elements (clean - only dots, dirty - dots and maximum of one circle) are over, under and to the right of each element in given matrix can be used to calculate maximal shape from each possible position in matrix during final iteration. 
+
 <p align="center">
   <img src="pictures/given_matrix.png" width="300" title="given_matrix">
 </p>
+
+'Up matrices' expressing how many clean (respectively dirty) elements are over each element in given matrix:
 
 <p align="center">
   <img src="pictures/clean_up.png" width="300" title="clean_up">
   <img src="pictures/dirty_up.png" width="300" title="dirty_up">
 </p>
 
+'Down matrices' expressing how many clean (respectively dirty) elements are under each element in given matrix:
+
 <p align="center">
   <img src="pictures/clean_down.png" width="300" title="clean_down">
   <img src="pictures/dirty_down.png" width="300" title="dirty_down">
 </p>
+
+'Right matrices' expressing how many clean (respectively dirty) elements are to the right of each element in given matrix:
 
 <p align="center">
   <img src="pictures/clean_right.png" width="300" title="clean_right">
   <img src="pictures/dirty_right.png" width="300" title="dirty_right">
 </p>
 
+Solution:
+
 <p align="center">
   <img src="pictures/solution.png" width="300" title="solution">
 </p>
+
+#### Compiling and testing
+
+`gcc main.c -o main`  
+`./main < datapub/pub**.in`
 
 
 
