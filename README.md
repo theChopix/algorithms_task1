@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="pictures/given_matrix.png" width="300" title="given_matrix">
+  <img src="pictures/solution.png" width="300" title="solution">
 </p>
 
 
