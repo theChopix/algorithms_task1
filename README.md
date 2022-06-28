@@ -70,6 +70,7 @@ Solution:
 #### Compiling and testing
 
 `gcc main.c -o main`  
+  
 `./main < datapub/pub**.in`
 
 
